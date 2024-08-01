@@ -1,0 +1,6 @@
+@UltraGroupHotelAPI_HostAddress = http://localhost:5049
+
+GET {{UltraGroupHotelAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
